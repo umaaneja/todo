@@ -1,6 +1,5 @@
 import "./App.css";
 import { connect } from "react-redux";
-//import { selectedFood } from "./../actions";
 import TodoListItem from './features/todos/TodoListItem'
 import TodoList from './features/todos/TodoList'
 
